@@ -588,7 +588,7 @@ turing.endGame_ = function() {
             turing.replaySolutionsInSequence_),
         1000);
   } else {
-    window.location.href = '/search?q=Alan+Turing';
+    window.location.href = './images/alan_turing_rasterized.svg';
   }
   turing.target_.setEqual('dim');
 };
